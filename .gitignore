@@ -1,0 +1,9 @@
+# vscode configuration
+.vscode
+
+# exercise notes
+task
+
+# target classes (leave only serenity report output)
+target/classes
+target/test-classes
