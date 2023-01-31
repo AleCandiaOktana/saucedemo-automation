@@ -6,4 +6,4 @@ task
 
 # Exclude target except for the site folder
 target/*
-# !target/site
+!target/site
