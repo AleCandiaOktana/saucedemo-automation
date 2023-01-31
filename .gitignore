@@ -4,6 +4,6 @@
 # exercise notes
 task
 
-# target classes (leave only serenity report output)
-target/classes
-target/test-classes
+# Exclude target except for the site folder
+target/*
+# !target/site
